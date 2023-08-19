@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520720365738",
+    "firebase_url": "https://endermath-x.firebaseio.com",
+    "project_id": "endermath-x",
+    "storage_bucket": "endermath-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520720365738:android:f49cc4d9d7c895b23638d3",
+        "android_client_info": {
+          "package_name": "com.mankadsoft.endermathx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520720365738-29g8itsfvmmomst0ragf4ct7hglu6th7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mankadsoft.endermathx",
+            "certificate_hash": "d0691df3e9e1555b55b232485f9db14ab8eae94c"
+          }
+        },
+        {
+          "client_id": "520720365738-c69l6jd0lt6md2bf3v5rc2i1lotoamra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jzgzsevqQ4neUSxnKV7k7fvnzhcsQRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520720365738-c69l6jd0lt6md2bf3v5rc2i1lotoamra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

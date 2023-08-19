@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Endermath X</string>
+    <string name="title_activity_intro">Welcome!</string>
+    <string name="title_activity_auth">Authentication</string>
+    <string name="title_activity_auth_setup">Hi!  Whats your name?</string>
+    <string name="title_activity_menu">What do you want to do?</string>
+    <string name="title_activity_games_list">What do you want to play?</string>
+    <string name="title_activity_game_runner">Endermath X</string>
+    <string name="title_activity_game_result">Way to go!</string>
+    <string name="title_activity_performance">Heres how youre doing</string>
+    <string name="title_activity_main">Endermath X</string>
+    <string name="number_zero">0</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_backspace">Back</string>
+    <string name="pointsEarnedLabel">Points Earned:</string>
+    <string name="averageTimeLabel">Seconds per Problem:</string>
+    <string name="problemsSolvedLabel">Problems Solved:</string>
+    <string name="hardestProblemsLabel">Your toughest problems:</string>
+</resources>
