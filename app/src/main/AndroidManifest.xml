@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.mankadsoft.endermathx">
+    xmlns:dist="http://schemas.android.com/apk/distribution">
 
     <dist:module dist:instant="true" />
 
@@ -15,6 +14,7 @@
         <activity
             android:name="com.mankadsoft.endermathx.MainActivity"
             android:label="@string/title_activity_main"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar">
 
             <intent-filter>
@@ -26,34 +26,42 @@
         <activity
             android:name="com.mankadsoft.endermathx.PerformanceActivity"
             android:label="@string/title_activity_performance"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.GameResultActivity"
             android:label="@string/title_activity_game_result"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.GameRunner"
             android:label="@string/title_activity_game_runner"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.GamesListActivity"
             android:label="@string/title_activity_games_list"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.MenuActivity"
             android:label="@string/title_activity_menu"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.AuthSetupActivity"
             android:label="@string/title_activity_auth_setup"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.AuthActivity"
             android:label="@string/title_activity_auth"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.mankadsoft.endermathx.IntroActivity"
             android:label="@string/title_activity_intro"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
